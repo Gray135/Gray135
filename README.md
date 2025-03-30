@@ -26,12 +26,12 @@ Movie Executives want to use data from highest performing movies to identify ins
    ORDER BY revenue DESC, budget ASC
    LIMIT 10
 
-### Steps
+### Steps:
 - Use **JOIN** to combine movie table with the finance table with finance_id are from both table.
 - Use **JOIN** to combine movie table with the person table with person_id are from both table.
 - Use **ORDER BY** to order revenue **DESC** and budget **ASC**
 
-### Answer
+### Answer:
 | Title | Revenue | Budget | Director | Lead Actor |
 | ------| --------|--------|----------|-------|
 | Avatar| 2787965087| 237000000 | James Cameron | Sam Worthington |
@@ -47,6 +47,19 @@ Movie Executives want to use data from highest performing movies to identify ins
 
 - James Cameron is the top performing director and holds the top two spot.
 - Robert Downey is the on top performing actor and holds 3 spots.
-- Joss Whedon is the only other repeat director on this list. 
+- Joss Whedon is the only other repeat director on this list.
+
+***
+
+2. Let's look at the ratio of budget to revenue. What top ten movies had the largest ratio of budget to revenue. Additionally who are the actors and directors?
+
+````sql
+SELECT DISTINCT p.director, p.actor, m.title. f.budget, f.revenue, f.revenue/f.budget as Ratio
+FROM person p
+JOIN finance f
+ON m.finance_id = f.finance_id
+ORDER BY Ratio DESC
+
+### Steps:
 
 
