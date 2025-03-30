@@ -58,7 +58,7 @@ SELECT DISTINCT p.director, p.actor, m.title. f.budget, f.revenue, f.revenue/f.b
 FROM person p
 JOIN finance f
 ON m.finance_id = f.finance_id
-ORDER BY Ratio DESC
+ORDER BY Ratio DESC;
 
 ### Steps:
 
