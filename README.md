@@ -241,10 +241,23 @@ LIMIT 10;
 - Use a **CROSS JOIN** to attach the one-row `average` CTE to every result row
 - Use **ORDER** BY f.revenue DESC` to show the top-grossing films first
 - Use **LIMIT 10** to display only the top 10 movies
-- 
+  
 ### Answer:
+| title | budget | genre | revenue | runtime | avg_runtime | avg_budget | avg_revenue |
+|-------|--------|-------|---------|---------|-------------|------------|-------------|
+| Avatar | 237000000 | Action | 2787965087 | 162 | 111| 41317104 | 123414291 |
+| Titanic | 200000000 | Drama | 1845034188 | 194 | 111 | 41317104 | 123414291 |
+| Avengers | 220000000 | Science Fiction | 1519557910 | 143 | 111 | 41317104 | 123414291 |
+| Jurassic World | 150000000 | Action | 1513528810 | 143 | 111 | 41317104 | 123414291 |
+| Furious 7 | 190000000 | Action | 1506249360 | 137 | 111 | 41317104 | 123414291 |
+| Avengers: Age of Ultron | 280000000 | Action | 1405403694 | 141 | 111 | 41317104 | 123414291 |
+| Frozen | 150000000 | Animation | 1274219009 | 102 | 111 | 41317104 | 123414291 |
+| Iron Man 3 | 200000000 | Action | 1215439994 | 130 | 111 | 41317104 | 123414291 |
+| Minions | 74000000 | Family | 1156730962 | 91 | 111 | 41317104 | 123414291 |
+| Captain America: Civil War | 250000000 | Adventure | 1153304495 | 111 | 41317104 | 123414291 |
 
 ***
+
 7.  What is the the runtime, release_year, and run_time of the top ten grossing films?
 ````sql
 SELECT m.title, m.release_year, f.revenue, m.genre, p.production_company, p.production_country
