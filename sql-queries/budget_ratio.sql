@@ -1,7 +1,7 @@
 - [Questions and Solutions](#questions-and-solutions)
 2. Let's look at the ratio of budget to revenue. What top ten movies had the largest ratio of budget to revenue? Additionally who are the actors and directors?
 
-`sql
+````sql
 SELECT DISTINCT p.director, p.actor, m.title, f.budget, f.revenue, f.revenue/f.budget as Ratio
 FROM finance f
 JOIN movie m
@@ -10,7 +10,7 @@ JOIN person p
 ON p.person_id = m.person_id
 ORDER BY Ratio DESC
 LIMIT 10;
-
+````
 ### Steps: 
 - **SELECT** the colunmns to list from all tables.
 - Use **DISTINCT** after **SELECT** to remove duplicates from our results
@@ -31,5 +31,7 @@ LIMIT 10;
 | Tobe Hopper | Marilyn Burns | The Texas Chainsaw Massacre| 85000 | 30859000 | 363 | 
 | David Hand | Donnie Dunagan | Bambi | 858000 | 267447150 | 311 |
 | George A. Romero | Duane Jones | Night of Living Dead | 114000 | 30000000 |263 |
+
+***
 
 
