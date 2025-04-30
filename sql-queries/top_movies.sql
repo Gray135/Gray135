@@ -1,4 +1,4 @@
-## Question and Solution
+- [Question and Solution](#question-and-solution)
 1. What are the top 10 top performing movies? Of those 10 movies who is are the actor and director? Are there any repeats?
  
    ````sql
