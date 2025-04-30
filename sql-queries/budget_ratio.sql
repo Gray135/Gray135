@@ -32,4 +32,4 @@ LIMIT 10;
 | David Hand | Donnie Dunagan | Bambi | 858000 | 267447150 | 311 |
 | George A. Romero | Duane Jones | Night of Living Dead | 114000 | 30000000 |263 |
 
-***
+
