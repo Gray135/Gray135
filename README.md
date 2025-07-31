@@ -5,7 +5,7 @@ I'm a self-taught Excel and data enthusiast with 8+ years of experience in custo
 - Excel (logic modeling, churn & engagement strategies)
 - Power BI (interactive dashboards)
 - SQL (data cleaning, joins, subqueries)
-- Python (pandas, matplotlib, customer analysis)
+- Python (currently working in pandas for cleaning and analysis)
 
 ---
 
