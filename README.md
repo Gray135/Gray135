@@ -11,13 +11,15 @@ I'm a self-taught Excel Analyst with 8+ years of experience in customer experien
 
 ## Featured Projects
 
+### Movie Data Insights
+[View project](https://github.com/Gray135/movie-data-insights)  
+SQL and Power BI dashboard exploring which genres, actors, and studios generate the best ROI. Includes actor count correlation and genre profitability analysis.
+
+
 ### Customer Engagement Strategy
 [View project](https://github.com/Gray135/customer-engagement-strategy)  
 An Excel-based decision model that identifies at-risk customers and recommends actions based on logic rules, match keys, and tenure/service segmentation.
 
-### Movie Data Insights
-[View project](https://github.com/Gray135/movie-data-insights)  
-SQL and Power BI dashboard exploring which genres, actors, and studios generate the best ROI. Includes actor count correlation and genre profitability analysis.
 
 ### Customer Churn Tracker
 [View project](https://github.com/Gray135/customer-churn)  
