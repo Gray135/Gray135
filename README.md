@@ -9,16 +9,7 @@ I'm a self-taught Excel and data enthusiast with 8+ years of experience in custo
 
 ---
 
-## Featured Projects
-
-### Customer Engagement Strategy
-[View project](https://github.com/Gray135/customer-engagement-strategy)  
-An Excel-based decision model that identifies at-risk customers and recommends actions based on logic rules, match keys, and tenure/service segmentation.
-
-### Customer Churn Tracker
-[View project](https://github.com/Gray135/customer-churn)  
-Excel model for tracking churn using COUNTIF, IF, and MATCH logic. Includes tenure buckets, service tiers, and risk flags to simulate analyst workflows.
-
+## Featured Project
 
 ### Movie Data Insights
 [View project](https://github.com/Gray135/movie-data-insights)  
