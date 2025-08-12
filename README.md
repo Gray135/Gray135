@@ -23,6 +23,8 @@ SQL and Power BI dashboard exploring which genres, actors, and studios generate 
 - Advanced Excel modeling & formulas
 - Python with pandas for cleaning, plotting, and analysis
 
+### Learning Projects
+
 ---
 
 ## Let’s connect
