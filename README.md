@@ -15,6 +15,10 @@ I'm a self-taught Excel and data enthusiast with 8+ years of experience in custo
 [View project](https://github.com/Gray135/movie-data-insights)  
 SQL and Power BI dashboard exploring which genres, actors, and studios generate the best ROI. Includes actor count correlation and genre profitability analysis.
 
+### Other Projects
+[View project](https://github.com/Gray135/cx-ops-analytics-learning)  
+Other self lead projects using practical expereince to develop skills
+
 ---
 
 ## Currently Learning
@@ -22,8 +26,6 @@ SQL and Power BI dashboard exploring which genres, actors, and studios generate 
 - Intermediate SQL: CTEs, temp tables, aggregation
 - Advanced Excel modeling & formulas
 - Python with pandas for cleaning, plotting, and analysis
-
-### Learning Projects
 
 ---
 
