@@ -1,6 +1,6 @@
 # Welcome – I’m Gray135
 
-I’m a customer experience and data enthusiast with 8+ years in **customer success, digital support, and quality operations**. I use data to spot patterns, reduce churn, and improve the customer journey. Lately I’ve been building **hands-on analytics projects** that connect customer insights to business impact. My toolkit includes **Excel**, **Power BI**, **SQL**, and **Python (pandas)**.
+I’m a customer experience and data enthusiast with 8+ years in **customer success, digital support, and quality operations**. I use data to spot patterns, reduce churn, and improve the customer journey. Lately I’ve been building **hands-on analytics projects** that connect customer insights to business impact. My toolkit includes **Excel**, **Power BI**, and **SQL**.
 
 I’m especially interested in roles where I can **bridge customer experience with analytics and implementation**, helping teams make better, data-driven decisions.
 
