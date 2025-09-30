@@ -8,8 +8,8 @@ I’m especially interested in roles where I can **bridge customer experience wi
 
 ## Featured Projects
 
-### Movie Data Insights  
-[View project](https://github.com/Gray135/movie-data-insights)  
+### Movie ROI Dashboard 
+[View project](https://github.com/Gray135/movie-roi-dashboard))  
 SQL + Power BI analysis of profitability drivers in film. Explores genre ROI, actor-count correlations, and studio performance with interactive visuals and a clean, recruiter-friendly dashboard.
 
 ### Customer Engagement  
