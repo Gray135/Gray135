@@ -12,9 +12,9 @@ I’m especially interested in roles where I can **bridge customer experience wi
 [View project](https://github.com/Gray135/movie-roi-dashboard))  
 SQL + Power BI analysis of profitability drivers in film. Explores genre ROI, actor-count correlations, and studio performance with interactive visuals and a clean, recruiter-friendly dashboard.
 
-### Customer Engagement  
-[View project](https://github.com/Gray135/customer-engagement-strategy)  
-Excel + SQL model that simulates a **Customer Success Ops** decision flow. Flags at-risk customers, segments by engagement, and recommends next-best actions—built to be BI-ready and explained with clear process notes.
+### Customer Engagement Dashboard
+[View project](https://github.com/Gray135/customer-engagement-dashboard)  
+Developed a Power BI + SQL dashboard modeling customer engagement and retention. Combined Excel prototype logic with SQL views to segment customers by satisfaction, CLV, and risk level—enabling data-driven “next best action” recommendations for Customer Success Ops teams.
 
 ### Other Projects  
 [View project](https://github.com/Gray135/cx-ops-analytics-projects)  
